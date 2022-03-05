@@ -12,3 +12,4 @@ def run():
         print(f'{self.user} has connected to Discord!')
     client.run (token)
     print ("hello wolrd")
+pri
